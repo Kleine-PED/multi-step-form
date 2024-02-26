@@ -15,4 +15,6 @@ Users should be able to:
   - The email address is not formatted correctly
   - A step is submitted, but no selection has been made
 
-# 👈🏼[Click here for Preview]([https://youtu.be/rKIRPPwx7Ow](https://multi-step-form-two-red.vercel.app/)https://multi-step-form-two-red.vercel.app/).
+### 👉🏼[Click here for Preview](https://multi-step-form-two-red.vercel.app/)
+
+
